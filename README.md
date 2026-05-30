@@ -31,9 +31,7 @@ All IP addresses and network details used in this project are **simulated and fi
 
 ---
 
-## 🖼️ WSUS Design & Flow
-
-![WSUS Design](wsus-diagram.png)
+## WSUS Design & Flow
 
 ### How It Works:
 
@@ -76,7 +74,6 @@ Microsoft Update → Internet → Firewall (HTTPS Only) → DMZ-WSUS Server → 
 
 **Elaf Alharbi**  
 IT Graduate | Cybersecurity Enthusiast  
-[LinkedIn](https://linkedin.com/in/elaf-alharbi) 
 
 ---
 
